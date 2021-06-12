@@ -77,7 +77,7 @@ The main advantage of the ensemble method is that it can overcome the limitation
 In conclusion, I created a machine learning model to determine whether or not a loan would be granted based on several different factors. I then tested this model against a test dataset and found that it was able to correctly identify low and high risk loans with an accuracy rate. This shows that this machine learning model can be used in practice to accurately identify which loans should be approved and which should not be approved based on their level of risk. This is important because it means that this machine learning model can be used in practice to accurately identify which loans should be granted and which should not be granted, which saves money for the bank by only approving the most profitable loans while rejecting the less profitable ones. This is important because it means that this machine learning model can be used in practice to accurately identify which loans should be granted and which should not be granted, which saves money for the bank by only approving the most profitable loans while rejecting the less profitable ones.
 
 
-
+![](Resources/B2.PNG)
 
 
 
